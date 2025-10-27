@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-rk^fiu2ihtk)-xir=3ky^fdkm=xm0xde!f9$%=@92zrmk!96tj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '127.0.0.1:8000', 'localhost', 'localhost:8000','http://192.168.1.209:8000/','192.168.1.209:8000','192.168.1.209','10.0.0.59:8000','10.0.0.59','http://10.0.0.59:8000/']
+ALLOWED_HOSTS = ['peitelbackend.onrender.com','127.0.0.1', '127.0.0.1:8000', 'localhost', 'localhost:8000','http://192.168.1.209:8000/','192.168.1.209:8000','192.168.1.209','10.0.0.59:8000','10.0.0.59','http://10.0.0.59:8000/']
 
 
 # Application definition
